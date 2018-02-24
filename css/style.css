@@ -253,10 +253,10 @@ a:active {
 ====================================================*/
   #home {
       /*    FOR PUBLISHING  */
-/*    background-image: url('file:///C:/Users/Andy%20Tan/Downloads/Personal/Website/atan1021.github.io/css/banners/profile_banner3.jpg'); */
+    background-image: url('file:///C:/Users/Andy%20Tan/Downloads/Personal/Website/atan1021.github.io/css/banners/profile_banner3.jpg'); 
 
       /*      FOR LOCAL TESTING */
-      background-image: url('/css/banners/profile_banner3.JPG'); 
+/*      background-image: url('/css/banners/profile_banner3.JPG'); */
       background-size: cover;
       background-position: center center;
       background-repeat: no-repeat;

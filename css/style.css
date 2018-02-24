@@ -252,7 +252,7 @@ a:active {
                       ABOUT
 ====================================================*/
   #home {
-/*      background-image: url(../img/profile_banner3.jpg); */
+      background-image: url('/img/profile_banner3.JPG'); 
       background-size: cover;
       background-position: center center;
       background-repeat: no-repeat;

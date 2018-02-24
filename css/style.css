@@ -43,7 +43,7 @@ ul {
 }
 
 body {
-    font-family: 'Open Sans', serif;
+    font-family: 'raleway', serif;
     padding-top: 54px;
     color: #868e96;
 }
@@ -253,13 +253,14 @@ a:active {
 ====================================================*/
   #home {
       /*    FOR PUBLISHING  */
-/*    background-image: url('file:///C:/Users/Andy%20Tan/Downloads/Personal/Website/atan1021.github.io/css/banners/profile_banner3.JPG'); */
+    background-image: url('file:///C:/Users/Andy%20Tan/Downloads/Personal/Website/atan1021.github.io/css/banners/profile_banner3_reduce.JPG'); 
 
       /*      FOR LOCAL TESTING */
-      background-image: url('banners/profile_banner3.JPG'); 
+/*      background-image: url('banners/profile_banner3_reduce.jpg'); */
       background-size: cover;
-      background-position: center center;
+      background-position: bottom right;
       background-repeat: no-repeat;
+
   }
 
   #about h1 {

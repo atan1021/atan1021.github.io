@@ -253,14 +253,13 @@ a:active {
 ====================================================*/
   #home {
       /*    FOR PUBLISHING  */
-    background-image: url('file:///C:/Users/Andy%20Tan/Downloads/Personal/Website/atan1021.github.io/css/banners/profile_banner3_reduce.JPG'); 
+    background-image: url('file:///C:/Users/Andy%20Tan/Downloads/Personal/Website/atan1021.github.io/css/banners/profile_banner3_reduce.jpg'); 
 
       /*      FOR LOCAL TESTING */
 /*      background-image: url('banners/profile_banner3_reduce.jpg'); */
       background-size: cover;
       background-position: bottom right;
       background-repeat: no-repeat;
-
   }
 
   #about h1 {
